@@ -9,7 +9,6 @@ If you're having difficulty finding the SceneID, double-check [PAsiteList.py](..
 
 # All Supported Networks and Sites
 
-+ #### 18OnlyGirls | ✅
 + #### 18 Network | ✓ - **Title or Actor Name**
   - Fit18
   - Thicc18
@@ -701,7 +700,10 @@ If you're having difficulty finding the SceneID, double-check [PAsiteList.py](..
 + #### Kinky Spa | ✓
 + #### Little Caprice | ✅
 + #### Look At Her Now | ✅
-+ #### Love Her Feet | ✅
++ #### LoveHerFilms | ✅
+  - LoveHerBoobs
+  - LoveHerFeet
+  - SheLovesBlack
 + #### Lustomic | ❌ - **SceneID, Date Add**
 + #### LustReality | ✅
 + #### ManyVids | ❌ - **SceneID, Date Add**
@@ -1119,6 +1121,7 @@ If you're having difficulty finding the SceneID, double-check [PAsiteList.py](..
   - Shower 4K
   - SpyFam
   - Tiny4k
+  - WetVR
 + #### PornstarPlatinum | ✅
 + #### POVR | ✓
 + #### PrettyDirty | ✅
@@ -1455,6 +1458,7 @@ If you're having difficulty finding the SceneID, double-check [PAsiteList.py](..
   - Watch Me Fucked
   - WOW Orgasms
   - X Angels
++ #### Teeny Taboo | ✅
 + #### The Score Group | ❌ - **Direct URL**
   - 18 Eighteen
   - 50 Plus MILFS
@@ -1592,10 +1596,13 @@ If you're having difficulty finding the SceneID, double-check [PAsiteList.py](..
 + #### Why Not Bi | ✅
 + #### Wicked | ✅
 + #### WoodmanCastingX | ✓ - **actress**
-+ #### WowGirls | ✓ - **Date Add**
++ #### WowNetwork | ✅
+  - 18OnlyGirls
+  - WowGirls
+  - WowPorn
 + #### X-Art | ✅
 + #### XConfessions | ✓
-+ #### Xempire | ✅
++ #### XEmpire | ✅
   - AllBlackX
   - Darkx
   - Eroticax
