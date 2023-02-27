@@ -2,7 +2,6 @@ ActorsReplace = {
     'Abbey Rain': ['Abby Rains', 'Julie Snow'],
     'Abby Lee Brazil': ['Abby Lee'],
     'Abella Danger': ['Bella Danger'],
-    'Adalind Gray': ['Adalind Grey'],
     'Addie Juniper': ['Ms Addie Juniper'],
     'Addison Lee': ['Addi Lee'],
     'Adriana Chechik': ['Adriana Chechick', 'Adrianna Chechik'],
@@ -28,7 +27,7 @@ ActorsReplace = {
     'April O\'Neil': ['April O\'neil', 'April ONeil', 'April Oneil'],
     'Ashlee Graham': ['Ashley Graham'],
     'Ashly Anderson': ['Ashley Anderson'],
-    'Aspen Ora': ['Haveen Ora', 'Natasha Griffin', 'Navee Nora', 'Naveen Ora'],
+    'Aspen ora': ['Haveen Ora', 'Natasha Griffin', 'Navee Nora', 'Naveen Ora'],
     'Austyn Summers': ['Austyn Summer'],
     'Ava Maxim': ['Ava', 'Ava Maxime', 'Becky (NVG Network)'],
     'Baby Kxtten': ['Baby Kitten', 'Bxby Kitten'],
@@ -180,7 +179,6 @@ ActorsReplace = {
     'Rahyndee James': ['Rahyndee'],
     'Rebeca Linares': ['Rebecca Linares'],
     'Rebecca Black': ['Lindsay Sharon', 'Lindsey Sheron', 'Rebeca Black', 'Rebecca Sharon', 'Rebeka Black'],
-    'Rebecca Vanguard': ['Sailor Luna', 'Rebecca Vangaurd'],
     'Rebel Lynn': ['Rebel Lynn (Contract Star)'],
     'Remy LaCroix': ['Remy La Croix'],
     'Renata Fox': ['Elnara Cat'],
@@ -227,7 +225,6 @@ ActorsReplace = {
     'Victoria Tiffani': ['Victoria Tiffany'],
     'Viola Bailey': ['Viola Bailey', 'Viola O'],
     'Violette Pink': ['Violette Pure'],
-    'Xxlayna Marie': ['Xxylayna Marie'],
     'Yiny Leon': ['Yini Leon', 'YiniLeon', 'YInyleon', 'YinyLeon'],
     'Yu Shinoda': ['Shinoda Yuu'],
     'Zazie Skymm': ['Azazia Skymm', 'Zazie Skymm', 'Zazie Skimm'],
@@ -5673,14 +5670,14 @@ ActorsReplaceStudios = {
         'Kana Amatsuki': ['Amatsuki Kana'],
         'Kana Momonogi': ['Momonogi Kana'],
         'Kana Ohori': ['Oohori Kana'],
-        'Kanako Ioka': ['Iioka Kanako'],
+        'Kanako Ioka ': ['Iioka Kanako'],
         'Kanna Hirai': ['Hirai Kanna'],
         'Kanon Takigawa': ['Takikawa Kanon', 'Kanon Imai', 'Nami Okawa', 'Kanon Takizawa'],
         'Kaori Saejima': ['Saejima Kaori'],
         'Karen Kaede': ['Kaede Karen'],
         'Karen Yuzuriha': ['Yuzuriha Karen'],
         'Karina Nishida': ['Nishita Karina'],
-        'Kasumi Tsukino': ['Tsukino Kasumi'],
+        'Kasumi Tsukino ': ['Tsukino Kasumi'],
         'Kawakawita Meisa': ['めいさ'],
         'Kei Mimori': ['Mimori Kei'],
         'Kirara Asuka': ['Asuka Kirara'],
@@ -5840,11 +5837,7 @@ ActorsReplaceStudios = {
         'Yuria Kiritani': ['Kiritani Yuria'],
         'Yuria Satomi': ['Satomi Yuria'],
         'Yuzu Ogura': ['Ogura Yuzu'],
-    },
-    65: {  # Teeny Taboo
-        'Adalind Gray': ['Adalind'],
-        'Celestina Blooms': ['Celestina'],
-    },
+    }
 }
 
 ActorsStudioIndexes = {
@@ -5913,7 +5906,6 @@ ActorsStudioIndexes = {
     62: ['Allure Media'],
     63: ['PornPros'],
     64: ['JavBus', 'JAVLibrary', 'JAVDatabase'],
-    65: ['Teeny Taboo'],
 }
 
 
@@ -5966,7 +5958,7 @@ actorsReplaceJavBusSearch = {
     '8da': ['Hoshino Kurumu'],
     '948': ['Reika Hoshiumi'],
     '93q': ['Hoshizaki Yuuna'],
-    '46': ['Housyou Nana'],
+    '46 ': ['Housyou Nana'],
     '88g': ['Ichijou Kimika'],
     'wth': ['Ichika Nenne'],
     '2ql': ['Ichinose Ruka'],
@@ -6000,7 +5992,7 @@ actorsReplaceJavBusSearch = {
     'qg3': ['Kujou Sayaka'],
     '2uj': ['Kurokawa Sumire'],
     'x74': ['Lily Heart'],
-    'pr': ['Maika'],
+    'pr ': ['Maika'],
     '8be': ['Maki Koizumi'],
     'lq8': ['Makihara Mana'],
     '9qi': ['Manami Rei', 'Rei Manami'],

@@ -40,8 +40,9 @@ def update(metadata, lang, siteNum, movieGenres, movieActors, art):
     movieActors.clearActors()
     section = detailsPageElements.xpath('//a[@itemprop="actor"]')
     for actor_section in section:
-        for actor_name in actor_section.xpath('//span[@itemprop="name"]')[0].text_content().split(','):
-            movieActors.addActor(actor_name, "")
+        actor_name = actor_section.xpath('//span[@itemprop="name"]')[0].text_content()
+
+        movieActors.addActor(actor_name, "")
 
     # Genres
     movieGenres.clearGenres()
